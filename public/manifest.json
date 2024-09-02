@@ -1,8 +1,8 @@
 {
   "id": "LaWalletPWA",
-  "name": "LaWallet",
+  "name": "Galicia Wallet",
   "description": "La Wallet WebApp",
-  "short_name": "LaWallet",
+  "short_name": "Galicia Wallet",
   "display": "standalone",
   "homepage_url": "https://app.lawallet.ar",
   "orientation": "portrait",
@@ -18,7 +18,7 @@
     }
   ],
   "providedBy": {
-    "name": "LaWallet",
+    "name": "Galicia Wallet",
     "url": "https://lawallet.ar"
   },
   "icons": [
